@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="typeface">Phông chữ</string>
+    <string name="app_name">Android Components Catalogue</string>
+    <string name="homeTitle">Danh mục thành phần</string>
+    <string name="componentTitle">Thành phần giao diện</string>
+    <string name="homePlaceholderText">Lorem Ipsum là một văn bản giữ chỗ chuẩn được sử dụng trong ngành xuất bản và thiết kế. Về cơ bản, đây là văn bản tiếng Latin vô nghĩa dùng để minh họa hình thức trực quan của một tài liệu hoặc kiểu chữ mà không dựa vào nội dung có ý nghĩa.</string>
+    <string name="settings">Cài đặt</string>
+    <string name="customize">Tuỳ chỉnh</string>
+    <string name="done">Xong</string>
+    <string name="theme">Chủ đề</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="dynamic">Màu linh hoạt (Android 12+)</string>
+    <string name="monochrome">Đơn sắc</string>
+    <string name="android">Android</string>
+    <string name="componentPackageName">androidx.compose.material3</string>
+    <string name="componentCardDescription">Thành phần giao diện Material3</string>
+    <string name="animationCardDescription">AnimatedVisibility, hiệu ứng, hoạt ảnh chuyển trang...</string>
+    <string name="sensorTitle">Cảm biến</string>
+    <string name="animationTitle"><![CDATA[Hiệu ứng & hoạt ảnh chuyển trang]]></string>
+    <string name="sensorDescription">Cảm biến ánh sáng, cảm biến xoay, cảm biến rung...</string>
+    <string name="infoTitle">Thông tin thiết bị</string>
+    <string name="infoDescription">Kiểu máy, phiên bản API...</string>
+    <string name="miscellaneous">Khác</string>
+    <string name="miscellaneousDescription">Các thành phần thử nghiệm</string>
+</resources>

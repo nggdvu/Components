@@ -36,8 +36,7 @@ fun ComponentScreen(
             Text(
                 text = stringResource(R.string.componentTitle),
                 color = MaterialTheme.colorScheme.primary,
-                fontSize = 44.sp,
-                fontWeight = FontWeight.Medium,
+                style = MaterialTheme.typography.displaySmall,
                 maxLines = 2
             )
         }
