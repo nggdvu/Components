@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="typeface">Phông chữ</string>
-    <string name="app_name">Android Components Catalogue</string>
-    <string name="homeTitle">Danh mục thành phần</string>
+    <string name="app_name">ACC</string>
+    <string name="homeTitle">Danh mục thành phần Android</string>
     <string name="componentTitle">Thành phần giao diện</string>
     <string name="homePlaceholderText">Lorem Ipsum là một văn bản giữ chỗ chuẩn được sử dụng trong ngành xuất bản và thiết kế. Về cơ bản, đây là văn bản tiếng Latin vô nghĩa dùng để minh họa hình thức trực quan của một tài liệu hoặc kiểu chữ mà không dựa vào nội dung có ý nghĩa.</string>
     <string name="settings">Cài đặt</string>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="homeTitle">Components Catalogue</string>
+    <string name="homeTitle">Android Components Catalogue</string>
     <string name="componentTitle">UI components</string>
     <string name="homePlaceholderText">Lorem Ipsum is a standard placeholder text used in the publishing and design industries. It\'s essentially nonsensical Latin text that serves to demonstrate the visual form of a document or typeface without relying on meaningful content.</string>
     <string name="settings">Settings</string>
@@ -8,7 +8,7 @@
     <string name="theme">Theme</string>
     <string name="language">Language</string>
     <string name="typeface">Typeface</string>
-    <string name="app_name">Android Components Catalogue</string>
+    <string name="app_name">ACC</string>
     <string name="dynamic">Dynamic (Android 12+)</string>
     <string name="monochrome">Monochrome</string>
     <string name="android">Android</string>
@@ -22,4 +22,35 @@
     <string name="infoDescription">Phone model, API level...</string>
     <string name="miscellaneous">Miscellaneous</string>
     <string name="miscellaneousDescription">More experimental components</string>
+    <string name="badge">Badge</string>
+    <string name="bottomAppBar">Bottom App Bar</string>
+    <string name="bottomSheet">Bottom Sheet</string>
+    <string name="button">Button</string>
+    <string name="card">Card</string>
+    <string name="chip">Chip</string>
+    <string name="dialog">Dialog</string>
+    <string name="drawer">Drawer</string>
+    <string name="floatingActionButton">Floating Action Button</string>
+    <string name="list">List</string>
+    <string name="navigationRail">Navigation Rail</string>
+    <string name="navigationBar">Navigation Bar</string>
+    <string name="menu">Menu</string>
+    <string name="datePicker">Date Picker</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="progressIndicator">Progress Indicator</string>
+    <string name="radioButton">Radio Button</string>
+    <string name="searchBar">Search Bar</string>
+    <string name="slider">Slider</string>
+    <string name="snackbar">Snackbar</string>
+    <string name="switches">Switch</string>
+    <string name="tab">Tab</string>
+    <string name="textField">Text Field</string>
+    <string name="appBar">App Bar</string>
+    <string name="topAppBar">Top App Bar</string>
+    <string name="tooltip">Tooltip</string>
+    <string name="timePicker">Time Picker</string>
+    <string name="simpleTopAppBarPackage">androidx.compose.material3.TopAppBar</string>
+    <string name="simpleTopAppBar">Simple TopAppBar</string>
+    <string name="centerAlignedTopAppBar">Simple CenterAlignedTopAppBar</string>
+    <string name="centerAlignedTopAppBarPackage">androidx.compose.material3.CenterAlignedTopAppBar</string>
 </resources>
